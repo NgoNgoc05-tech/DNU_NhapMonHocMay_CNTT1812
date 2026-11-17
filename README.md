@@ -4,9 +4,13 @@ Bài tập lớn Nhập môn Học máy – Đề tài 6: Chẩn đoán viêm ph
 Open In Colab
 
 Thông tin
+
 Sinh viên: Ngô Văn Ngọc – MSV: 1871020425
+
 Lớp: CNTT1812 – Đại học Đại Nam (DNU)
+
 Môn học: Nhập môn Học máy
+
 Giảng viên: Trần Thu Trang
 
 Mô tả
