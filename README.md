@@ -8,6 +8,7 @@ Sinh viên: Ngô Văn Ngọc – MSV: 1871020425
 Lớp: CNTT1812 – Đại học Đại Nam (DNU)
 Môn học: Nhập môn Học máy
 Giảng viên: Trần Thu Trang
+
 Mô tả
 
 Bài toán phân loại ảnh X-quang ngực thành hai lớp: NORMAL (bình thường) và PNEUMONIA (viêm phổi). Notebook so sánh hai hướng trích xuất đặc trưng:
